@@ -3,7 +3,6 @@ layout: layout.html
 title: Black
 eleventyNavigation: 
      key: Black
-     order: 1
 ---
 # {{ title }}
 
